@@ -1,1 +1,1 @@
-# EDA-Project-on-Hotel-Booking-Analysis
+# EDA-Project - Hotel_Booking_Analysis
